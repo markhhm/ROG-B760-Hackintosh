@@ -1010,7 +1010,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-AF89B6D9451A490B</string>
 			<key>BoardSerialNumber</key>
-			<string>C02050401QX0000AD</string>
+			<string></string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -1020,7 +1020,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02DT06Y046M</string>
+			<string></string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
@@ -1044,9 +1044,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DT06Y046M</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>BF15E6E5-461E-4221-9C0A-ED34838439DF</string>
+			<string></string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
